@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AhmetAyvaz
+- 👋 Hi, I’m AhmetAyvaz
 - 👀 I’m interested in data analysis
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on data science
